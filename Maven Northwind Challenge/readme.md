@@ -3,6 +3,8 @@ This Challenge is from Maven Analytics.
 ## Challenge Objective
 For the Maven Northwind Challenge, you'll be working as a BI Developer for Northwind Traders, a global import and export company that specializes in supplying high-quality gourmet food products to restaurants, cafes, and specialty food retailers around the world.
 
+<img width="910" alt="Dashboard" src="https://github.com/Varuni29/Power-BI-projects/assets/129275484/b19fe7df-959e-4e4c-a41d-a738517ee874">
+
 As part of your role, you've been tasked with building a top-level KPI dashboard for the executive team. Its purpose should be to allow them to quickly understand the company's performance in key areas, including:
 ### Sales trends
 - Product performance
